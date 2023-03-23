@@ -1,0 +1,9 @@
+{
+  "vertex_cardinality": {
+    "Country": 11.0,
+    "City": 11.0,
+    "Company": 11.0,
+    "": 33.0
+  },
+  "edge_cardinality": {}
+}

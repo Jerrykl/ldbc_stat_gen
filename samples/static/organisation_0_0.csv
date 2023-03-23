@@ -1,0 +1,12 @@
+id:ID(Organisation)|:LABEL|name:STRING|url:STRING
+0|Company|Kam_Air|http://dbpedia.org/resource/Kam_Air
+1|Company|Balkh_Airlines|http://dbpedia.org/resource/Balkh_Airlines
+2|Company|Khyber_Afghan_Airlines|http://dbpedia.org/resource/Khyber_Afghan_Airlines
+3|Company|MarcoPolo_Airways|http://dbpedia.org/resource/MarcoPolo_Airways
+4|Company|Pamir_Airways|http://dbpedia.org/resource/Pamir_Airways
+5|Company|Bakhtar_Afghan_Airlines|http://dbpedia.org/resource/Bakhtar_Afghan_Airlines
+6|Company|Safi_Airways|http://dbpedia.org/resource/Safi_Airways
+7|Company|Air_Algérie|http://dbpedia.org/resource/Air_Algérie
+8|Company|Khalifa_Airways|http://dbpedia.org/resource/Khalifa_Airways
+9|Company|Tassili_Airlines|http://dbpedia.org/resource/Tassili_Airlines
+10|Company|Antinea_Airlines|http://dbpedia.org/resource/Antinea_Airlines
